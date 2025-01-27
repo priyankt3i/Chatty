@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your Chat App project:
-
-```markdown
 # AI Chat App :robot:
 
 A cross-platform chat application built with React Native & Expo, integrated with OpenAI's GPT-4 for intelligent conversations. Supports iOS, Android, and Web.
