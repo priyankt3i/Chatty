@@ -132,9 +132,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Need Help?**  
 Open an issue or contact maintainers at support@chatapp.com
-```
 
 ## Project Structure 📂
+
 ```
 chat-app/
 ├── assets/            # Media files
